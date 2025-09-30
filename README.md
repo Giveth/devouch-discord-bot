@@ -1,4 +1,4 @@
-# Deovuch Admin Discord Bot
+# DeVouch Admin Discord Bot
 
 A specialized Discord bot that helps Deovuch administrators identify and verify Giveth projects that have received sufficient vouches from a specific organization on the DeVouch platform.
 
